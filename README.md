@@ -104,17 +104,22 @@ I'm continuously working on improving my knowledge in:
 * Artificial Intelligence
 
 ---
-
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafuu-12&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=hafuu-12&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Statistics"
+  />
 </p>
 
 ## 🔤 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafuu-12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=hafuu-12&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 > GitHub statistics and language cards represent repository activity and are not a measure of skill level.
